@@ -33,10 +33,11 @@ This project utilizes data from the COVID-19 pandemic in the years 2020 and 2021
 	• Provided an intuitive overview of infection rates across the globe.
 
 	 
-IINTERACTIVE DASHBOARD
+INTERACTIVE DASHBOARD
 
 Explore the interactive dashboard on Tableau Public to visualize the data and gain deeper insights into the COVID-19 pandemic: 
-	https://public.tableau.com/app/profile/naveen.irfan/viz/Covid-19Dashboard_16961801513380/Dashboard1?publish=yes
+
+https://bitly.ws/WbBo
 
 Feel free to use and contribute to this project, and let's continue to stay informed about the pandemic's impact on the world.
 
